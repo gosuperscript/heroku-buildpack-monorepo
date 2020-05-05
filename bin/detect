@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-echo "Monorepo"
+echo "Monorepo2"
 git diff-tree --no-commit-id --name-only -r $SOURCE_VERSION
 exit 0
