@@ -1,2 +1,5 @@
+api = "0.8"
+
 [buildpack]
-name = "Monorepo"
+id = "gosuperscript.com/monorepo"
+version = "0.1"
